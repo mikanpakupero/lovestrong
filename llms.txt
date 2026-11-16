@@ -1,0 +1,29 @@
+# LoveStrong
+
+> LoveStrongは、ホームページとLPをつくるチームです。愛媛大学のサークルのメンバーが元になって活動しています。
+
+## 要点
+- 事業：ホームページ・LPの制作、公開後の保守
+- 料金：制作は無料、保守は月5,000円
+- 問い合わせ：info@example.com
+
+## ページ
+- [トップ](https://mikanpakupero.github.io/lovestrong/)
+- [制作内容](https://mikanpakupero.github.io/lovestrong/services/)
+- [制作実績](https://mikanpakupero.github.io/lovestrong/works/)
+- [ご依頼の流れ](https://mikanpakupero.github.io/lovestrong/flow/)
+- [チーム概要](https://mikanpakupero.github.io/lovestrong/company/)
+- [お問い合わせ](https://mikanpakupero.github.io/lovestrong/contact/)
+
+## よくある質問
+### LoveStrongは、どんなチームですか？
+ホームページとLP（ランディングページ）をつくるチームです。愛媛大学のサークルのメンバーが元になって活動しています。
+
+### どんなものをつくってもらえますか？
+会社やお店のホームページ、サービス紹介のページ、LPなどです。まだ形が決まっていない段階でも、ご相談ください。
+
+### 費用はいくらですか？
+ホームページの制作は無料です。公開したあとの保守（運用・修正のサポート）を、月5,000円でお受けしています。くわしくは、メールでご相談ください。
+
+### 問い合わせ先を教えてください。
+メールでご連絡ください。宛先は info@example.com です。
